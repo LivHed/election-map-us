@@ -4,7 +4,7 @@
     margin: 0 auto;
     text-align: left;
     background-color: #eee;
-  }
+}
   
 body {
     font: 16px/26px 'Open Sans', Helvetica, Arial, sans-serif;
@@ -29,7 +29,7 @@ header {
 }
   
 #stateResults {
-    width: 25%;
+    width: 32%;
     font: 12px/16px 'Open Sans', Helvetica, Arial, sans-serif;
     color: #454545;
 }
